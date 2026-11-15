@@ -23,7 +23,6 @@ Suivre la conjoncture économique et financière d'un pays de référence, la **
 ```
 .
 ├── README.md
-├── rapport/
 │   ├── Projet_Conjoncture_Finlande.pdf
 │   └── Projet_Conjoncture_Finlande.docx
 └── data/
