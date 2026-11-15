@@ -26,7 +26,7 @@ Suivre la conjoncture économique et financière d'un pays de référence, la **
 │   ├── Projet_Conjoncture_Finlande.pdf
 │   └── Projet_Conjoncture_Finlande.docx
 └── data/
-    └── donnees_projet.xlsx        # fichier Excel en annexe (données et calculs)
+    └── Tableau bord MFI Filande.xlsx        # fichier Excel en annexe (données et calculs)
 ```
 
 ## Auteur
